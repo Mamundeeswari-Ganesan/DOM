@@ -1,0 +1,14 @@
+div {
+    margin: 10px;
+  }
+  #list {
+    visibility: hidden;
+  }
+  .dark {
+    background-color: #333;
+    color: white;
+  }
+  .light{
+    background-color: white;
+  }
+  
